@@ -1,0 +1,103 @@
+{
+  "sources": {
+    "zabbix": {
+      "path": "."
+    },
+    "apache2": {
+      "locked_version": "1.8.4"
+    },
+    "database": {
+      "locked_version": "1.5.2"
+    },
+    "mysql": {
+      "locked_version": "4.0.20"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "postgresql": {
+      "locked_version": "3.1.0"
+    },
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "aws": {
+      "locked_version": "0.101.6"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    },
+    "ufw": {
+      "locked_version": "0.7.4"
+    },
+    "firewall": {
+      "locked_version": "0.11.6"
+    },
+    "yum": {
+      "locked_version": "3.0.6"
+    },
+    "php-fpm": {
+      "locked_version": "0.6.3"
+    },
+    "nginx": {
+      "locked_version": "2.4.2"
+    },
+    "bluepill": {
+      "locked_version": "2.3.1"
+    },
+    "rsyslog": {
+      "locked_version": "1.12.2"
+    },
+    "ohai": {
+      "locked_version": "1.1.12"
+    },
+    "runit": {
+      "locked_version": "1.5.10"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    },
+    "ark": {
+      "locked_version": "0.4.2"
+    },
+    "chocolatey": {
+      "locked_version": "0.1.0"
+    },
+    "powershell": {
+      "locked_version": "3.0.0"
+    },
+    "windows": {
+      "locked_version": "1.8.4"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "ms_dotnet45": {
+      "locked_version": "1.1.2"
+    },
+    "ms_dotnet4": {
+      "locked_version": "1.0.2"
+    },
+    "ms_dotnet2": {
+      "locked_version": "1.0.0"
+    },
+    "java": {
+      "locked_version": "1.10.0"
+    },
+    "oracle-instantclient": {
+      "locked_version": "1.0.4"
+    },
+    "php": {
+      "locked_version": "1.4.2"
+    },
+    "xml": {
+      "locked_version": "1.2.2"
+    },
+    "iis": {
+      "locked_version": "2.0.2"
+    }
+  }
+}
